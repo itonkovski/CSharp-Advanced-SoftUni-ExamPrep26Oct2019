@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.pdb

@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/obj/Debug/netcoreapp3.1/DatingAppAgain.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/obj/Debug/netcoreapp3.1/DatingAppAgain.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/obj/Debug/netcoreapp3.1/DatingAppAgain.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/bin/Debug/netcoreapp3.1/DatingAppAgain
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/bin/Debug/netcoreapp3.1/DatingAppAgain.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/bin/Debug/netcoreapp3.1/DatingAppAgain.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/bin/Debug/netcoreapp3.1/DatingAppAgain.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/bin/Debug/netcoreapp3.1/DatingAppAgain.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/bin/Debug/netcoreapp3.1/DatingAppAgain.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/obj/Debug/netcoreapp3.1/DatingAppAgain.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingAppAgain/obj/Debug/netcoreapp3.1/DatingAppAgain.pdb

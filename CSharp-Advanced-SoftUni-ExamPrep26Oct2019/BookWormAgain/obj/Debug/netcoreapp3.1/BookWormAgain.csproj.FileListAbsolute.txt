@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/bin/Debug/netcoreapp3.1/BookWormAgain
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/bin/Debug/netcoreapp3.1/BookWormAgain.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/bin/Debug/netcoreapp3.1/BookWormAgain.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/bin/Debug/netcoreapp3.1/BookWormAgain.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/bin/Debug/netcoreapp3.1/BookWormAgain.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/bin/Debug/netcoreapp3.1/BookWormAgain.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/obj/Debug/netcoreapp3.1/BookWormAgain.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/obj/Debug/netcoreapp3.1/BookWormAgain.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/obj/Debug/netcoreapp3.1/BookWormAgain.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/obj/Debug/netcoreapp3.1/BookWormAgain.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/BookWormAgain/obj/Debug/netcoreapp3.1/BookWormAgain.pdb

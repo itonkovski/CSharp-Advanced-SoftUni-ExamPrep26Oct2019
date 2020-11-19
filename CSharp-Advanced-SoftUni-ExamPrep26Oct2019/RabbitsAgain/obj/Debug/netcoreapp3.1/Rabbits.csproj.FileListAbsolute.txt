@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/bin/Debug/netcoreapp3.1/Rabbits
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/bin/Debug/netcoreapp3.1/Rabbits.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/bin/Debug/netcoreapp3.1/Rabbits.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/bin/Debug/netcoreapp3.1/Rabbits.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/bin/Debug/netcoreapp3.1/Rabbits.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/bin/Debug/netcoreapp3.1/Rabbits.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/obj/Debug/netcoreapp3.1/Rabbits.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/obj/Debug/netcoreapp3.1/Rabbits.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/obj/Debug/netcoreapp3.1/Rabbits.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/RabbitsAgain/obj/Debug/netcoreapp3.1/Rabbits.pdb

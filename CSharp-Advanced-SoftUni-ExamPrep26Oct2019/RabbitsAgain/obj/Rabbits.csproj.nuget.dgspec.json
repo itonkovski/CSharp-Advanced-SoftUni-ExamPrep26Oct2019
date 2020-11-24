@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj": {}
+    "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj": {}
   },
   "projects": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj": {
+    "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj",
+        "projectUniqueName": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj",
         "projectName": "Rabbits",
-        "projectPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj",
+        "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/Rabbits.csproj",
         "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
-        "outputPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/obj/",
+        "outputPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsAgain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWormAgainNew", "BookWor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitsAgainAndAgain", "RabbitsAgainAndAgain\RabbitsAgainAndAgain.csproj", "{62E65953-9126-4926-8E99-7ADC32078C7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWormNewPractise", "BookWormNewPractise\BookWormNewPractise.csproj", "{8AC129CC-EDDB-4D3F-828F-6708560D40A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,5 +63,9 @@ Global
 		{62E65953-9126-4926-8E99-7ADC32078C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62E65953-9126-4926-8E99-7ADC32078C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62E65953-9126-4926-8E99-7ADC32078C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC129CC-EDDB-4D3F-828F-6708560D40A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC129CC-EDDB-4D3F-828F-6708560D40A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC129CC-EDDB-4D3F-828F-6708560D40A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC129CC-EDDB-4D3F-828F-6708560D40A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

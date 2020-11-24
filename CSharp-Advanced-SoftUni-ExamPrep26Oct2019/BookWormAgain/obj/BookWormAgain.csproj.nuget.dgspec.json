@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj": {}
+    "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj": {}
   },
   "projects": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj": {
+    "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj",
+        "projectUniqueName": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj",
         "projectName": "BookWormAgain",
-        "projectPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj",
+        "projectPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/BookWormAgain.csproj",
         "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
-        "outputPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/obj/",
+        "outputPath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

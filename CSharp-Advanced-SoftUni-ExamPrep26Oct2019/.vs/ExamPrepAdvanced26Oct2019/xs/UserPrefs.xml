@@ -1,20 +1,32 @@
-﻿<Properties StartupConfiguration="{98DEBF1B-5C3E-439D-B355-D0AE170DB866}|Default">
+﻿<Properties StartupConfiguration="{8AC129CC-EDDB-4D3F-828F-6708560D40A5}|Default">
   <MonoDevelop.Ide.ItemProperties.Rabbits PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BookWorm PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BookWormAgainNew PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DatingApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookWormNewPractise/Program.cs">
     <Files>
-      <File FileName="DatingApp/Program.cs" Line="1" Column="1" />
+      <File FileName="BookWormNewPractise/Program.cs" Line="19" Column="1" />
+      <File FileName="BookWorm/Program.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="BookWormAgain/Program.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="BookWormAgainNew/Program.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ExamPrepAdvanced26Oct2019" expanded="True" />
+          <Node name="ExamPrepAdvanced26Oct2019" expanded="True">
+            <Node name="BookWorm" expanded="True" />
+            <Node name="BookWormAgain" expanded="True" />
+            <Node name="BookWormAgainNew" expanded="True" />
+            <Node name="BookWormNewPractise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DatingApp" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.RabbitsAgainAndAgain FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BookWormNewPractise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BookWormAgain PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.DatingApp PreferredExecutionTarget="MonoDevelop.Default" />
@@ -23,7 +35,7 @@
   <MonoDevelop.Ide.ItemProperties.RabbitsNew FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormAgainNew/Program.cs" relfile="BookWormAgainNew/Program.cs" line="27" column="1" />
+      <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/BookWormNewPractise/Program.cs" relfile="BookWormNewPractise/Program.cs" line="23" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

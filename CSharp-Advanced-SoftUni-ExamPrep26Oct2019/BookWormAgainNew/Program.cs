@@ -44,7 +44,7 @@ namespace BookWormAgainNew
                 }
             }
 
-            Console.WriteLine(string.Join("", initialWord.Reverse())); ;
+            Console.WriteLine(string.Join("", initialWord.Reverse()));
             PrintMatrix(matrix);
         }
 

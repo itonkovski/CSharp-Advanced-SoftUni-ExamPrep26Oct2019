@@ -8,3 +8,13 @@
 /Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.AssemblyInfo.cs
 /Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.dll
 /Users/ivaylotonkovski/Projects/ExamPrepAdvanced26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.pdb

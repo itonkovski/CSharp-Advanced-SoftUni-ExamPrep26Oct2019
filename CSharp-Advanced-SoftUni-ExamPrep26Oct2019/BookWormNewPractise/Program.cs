@@ -147,7 +147,7 @@ namespace BookWormNewPractise
             {
                 for (int col = 0; col < matrix[row].Length; col++)
                 {
-                    Console.WriteLine(matrix[row][col]);
+                    Console.Write(matrix[row][col]);
                 }
                 Console.WriteLine();
             }

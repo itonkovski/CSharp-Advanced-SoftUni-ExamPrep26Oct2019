@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/bin/Debug/netcoreapp3.1/RabbitsNewPractise
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/bin/Debug/netcoreapp3.1/RabbitsNewPractise.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/bin/Debug/netcoreapp3.1/RabbitsNewPractise.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/bin/Debug/netcoreapp3.1/RabbitsNewPractise.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/bin/Debug/netcoreapp3.1/RabbitsNewPractise.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/bin/Debug/netcoreapp3.1/RabbitsNewPractise.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/obj/Debug/netcoreapp3.1/RabbitsNewPractise.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/obj/Debug/netcoreapp3.1/RabbitsNewPractise.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/obj/Debug/netcoreapp3.1/RabbitsNewPractise.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/obj/Debug/netcoreapp3.1/RabbitsNewPractise.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/CSharp-Advanced-SoftUni-ExamPrep26Oct2019/RabbitsNewPractise/obj/Debug/netcoreapp3.1/RabbitsNewPractise.pdb
